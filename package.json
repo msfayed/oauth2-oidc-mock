@@ -1,0 +1,14 @@
+{
+  "name": "oauth2-mock",
+  "version": "1.0.0",
+  "description": "source: https://github.com/axa-group/oauth2-mock-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "oauth2-mock-server": "^6.0.0"
+  }
+}
